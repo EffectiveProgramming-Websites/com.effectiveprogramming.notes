@@ -1,0 +1,25 @@
+.footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+span.post-meta {
+	display: inline-block;
+	margin-right: 1em;
+	width: 100px;
+}
+
+span.post-tags {
+	color: #aaa;
+	font-size: .8em;
+}

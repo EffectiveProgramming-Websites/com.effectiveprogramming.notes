@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iOS View Controller Transitions
+tag: ios
 ---
 
 ## TIL
@@ -17,7 +18,7 @@ title: iOS View Controller Transitions
 
 ### [objc.io Issue 5 - View Controller Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
 
-```objective-c
+{% highlight swift %}
     func animateTransition(transitionContext: UIViewControllerContextTransitioning) {
 
         let sourceVC = transitionContext.viewControllerForKey(UITransitionContextFromViewControllerKey)!
@@ -39,12 +40,11 @@ title: iOS View Controller Transitions
         }
         
     }
-```
+	{% endhighlight %}
 
 ### [Google Inbox Style Expanding Cell]()
 
-```objective-c
-    
+{% highlight swift %}
     func animateTransition2(transitionContext: UIViewControllerContextTransitioning) {
         let sourceVC = transitionContext.viewControllerForKey(UITransitionContextFromViewControllerKey)!
         let sourceView = sourceVC.view
@@ -175,4 +175,4 @@ title: iOS View Controller Transitions
             })
         }
     }
-```
+{% endhighlight %}

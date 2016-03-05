@@ -1,6 +1,8 @@
 ---
 layout: post
 title: UIGestureRecognizer
+tags: 
+ - ios
 ---
 
 ## Pan Gesture Recognizer

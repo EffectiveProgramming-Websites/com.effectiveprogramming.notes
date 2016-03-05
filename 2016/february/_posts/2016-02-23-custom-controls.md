@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Custom Controls
+tags: 
+ - ios
 ---
 
 ## Cocoa Controls

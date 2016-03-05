@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scrum Vs Kanban
+tags: 
+ - agility
 ---
 
 ## Reference

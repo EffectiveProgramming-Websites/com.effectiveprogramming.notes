@@ -1,6 +1,8 @@
 ---
 layout: post
 title: UITableViewCell
+tags: 
+ - ios
 ---
 
 ## Effects

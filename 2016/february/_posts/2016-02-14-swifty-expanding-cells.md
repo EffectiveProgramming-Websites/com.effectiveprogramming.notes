@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Swifty Expanding Cells
+tags: 
+ - ios
 ---
 
 # Reference

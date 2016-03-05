@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Animations
+tags: 
+ - ios
 ---
 
 ## Inbox

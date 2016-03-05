@@ -5,7 +5,7 @@ tags:
  - ios
 ---
 
-## Inspiration
+# Where can I be inspired for iOS applications?
 
 Along the lines of getting a new synth.
 

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: iOS Skills
-tag: ios
+tags:
+ - ios
 ---
+
+# What would I look for in an iOS developer?
 
 Expanding Cells - TableView
 

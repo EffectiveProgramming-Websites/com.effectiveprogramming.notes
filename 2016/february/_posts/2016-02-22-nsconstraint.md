@@ -5,7 +5,7 @@ tags:
  - ios
 ---
 
-## 
+# How do I animated autolayout constraints again?
 
 {% highlight objc %}
 [containerView layoutIfNeeded];
@@ -15,6 +15,6 @@ tags:
 }];
 {% endhighlight %}
 
-## References
+## More references
 
 - [Animating Autolayout Constraints (useyourloaf)](http://useyourloaf.com/blog/animating-autolayout-constraints/)

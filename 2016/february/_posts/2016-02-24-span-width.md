@@ -5,7 +5,7 @@ tags:
  - html
 ---
 
-## span width
+# Can I force a span to have a width?
 
 {% highlight css %}
 span.post-meta {

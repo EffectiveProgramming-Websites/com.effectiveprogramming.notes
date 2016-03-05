@@ -4,6 +4,8 @@ title: iOS View Controller Transitions
 tag: ios
 ---
 
+# Even more information about UIViewController transitions!
+
 ## TIL
 
 - an UIView animation block will be skipped if there are no animatable properties changing in the block. In my case, animation completion blocks were firing almost immediately.

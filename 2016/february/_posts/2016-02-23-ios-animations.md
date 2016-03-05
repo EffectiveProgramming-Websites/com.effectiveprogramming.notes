@@ -5,7 +5,7 @@ tags:
  - ios
 ---
 
-## Inbox
+# Where are some good examples of iOS animations?
 
 - [How to create a bouncing view animation in iOS](http://mobileapp-dev.blogspot.com/2013/08/how-to-create-bouncing-view-animation.html)
 - [PullableView](https://github.com/crocodella/PullableView)

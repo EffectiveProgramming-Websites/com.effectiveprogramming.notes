@@ -5,7 +5,7 @@ tags:
  - ios
 ---
 
-## Pan Gesture Recognizer
+# How does a pan gesture recognizer work?
 
 - [UIPanGestureRecognizer (apple)](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIPanGestureRecognizer_Class/)
 - [UIGestureRecognizer Tutorial in iOS 5: Pinches, Pans, and More!](http://www.raywenderlich.com/6567/uigesturerecognizer-tutorial-in-ios-5-pinches-pans-and-more)

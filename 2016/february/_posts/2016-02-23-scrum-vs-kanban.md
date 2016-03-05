@@ -5,7 +5,7 @@ tags:
  - agility
 ---
 
-## Reference
+# What are some agile methodologies to consider?
 
 - [Great User Experience Through Dual-Track Scrum](http://www.infoq.com/presentations/dual-track-scrum)
 - [Delivering Software with Water-Scrum-Fall (infoq)](http://www.infoq.com/articles/delivering-software-water-scrum-fall)

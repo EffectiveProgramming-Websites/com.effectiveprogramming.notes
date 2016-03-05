@@ -5,7 +5,7 @@ tags:
  - ios
 ---
 
-## Cocoa Controls
+# What are some example custom controls for Cocoa?
 
 - [Cocoa Controls](https://www.cocoacontrols.com/controls)
 - [AZDropDownMenu](https://www.cocoacontrols.com/controls/azdropdownmenu) like a desktop sheet

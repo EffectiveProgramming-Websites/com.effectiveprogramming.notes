@@ -1,4 +1,3 @@
-Effective Programming - Notes
----
+# Effective Programming | Notes
 
-Some notes for inspiration and memory.
+Notes for ideas feeding into, amongst other things, a [blog](http://blog.effectiveprogramming.com/).
